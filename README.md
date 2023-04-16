@@ -1,7 +1,7 @@
 # Next JS Example Projects
 
 ## About
-This is my collection of Projects using Next.js framework
+This is my collection of example projects using Next.js framework
 
 ## Structure
 
